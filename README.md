@@ -1,9 +1,9 @@
 # Python
-There are solutions of some basic problems and some tricky problems. There ae also `hackerrank`, `hackerearth`, `codechef` problems. You can use all of these codes. Also free to contribute or pull request related some good problems.
+There are solutions of some basic problems and some tricky problems. There are also `hackerrank`, `hackerearth`, `codechef` problems. You can use all of these codes. Also free to contribute or pull request related some good problems.
 
 ## Python poem
 ```sh
-   import this
+   >>>import this
 ```
 The Zen of Python, by Tim Peters
 
