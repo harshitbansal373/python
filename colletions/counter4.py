@@ -1,0 +1,13 @@
+import collections
+c1=collections.Counter(['a','b','c','a','b'])
+c2=collections.Counter('alphabet')
+print('c1:',c1)
+print('c2:',c2)
+print('combined counts:')
+print(c1+c2)
+print('subtraction:')
+print(c1-c2)
+print('intersection')
+print(c1&c2)
+print('union')
+print(c1|c2)
