@@ -1,0 +1,14 @@
+>>> import itertools as it
+>>> l=[('aditi','jecrc'),('akansha','ju'),('harshit','jecrc'),('shubham','mnit'),('shiv','ju'),('vijay','mnit')]
+>>> l.sort(key=lambda x:x[1])
+>>> t=it.groupby(l,key=lambda x:x[1])
+>>> for k,v in t:
+...   print(k,end='---->')
+...   for name in v:
+...     print(name[0],end='')
+...   print()
+... 
+jecrc---->aditiharshit
+ju---->akanshashiv
+mnit---->shubhamvijay
+
