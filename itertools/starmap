@@ -1,0 +1,8 @@
+>>> for i in it.starmap(lambda x,y:x+y,[(1,2),(2,4),(3,6),(5,6)]):
+...   print(i)
+... 
+3
+6
+9
+11
+
