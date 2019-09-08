@@ -1,0 +1,8 @@
+>>> l1=[1,2,3,4]
+>>> s1='hello'
+>>> t1=(1,2,3,4)
+>>> it.chain(l1,s1,t1)
+<itertools.chain object at 0x7ff1a12ad828>
+>>> list(it.chain(l1,s1,t1))
+[1, 2, 3, 4, 'h', 'e', 'l', 'l', 'o', 1, 2, 3, 4]
+
