@@ -1,4 +1,4 @@
-import collections
+import collections # import collection here
 c=collections.Counter()
 print('intial:',c)
 c.update('abcdaab')
