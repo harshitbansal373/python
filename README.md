@@ -1,5 +1,5 @@
 # Python
-There are solutions of some basic problems and some tricky problems. There are also `hackerrank`, `hackerearth`, `codechef` problems. You can use all of these codes. Also free to contribute or pull request related some good problems.
+There are solutions of some basic problems and some tricky problems. There are also `hackerrank`, `hackerearth`, `codechef` problems. You can use all of these codes.
 
 ## Python poem
 ```sh
@@ -26,3 +26,6 @@ The Zen of Python, by Tim Peters
 - If the implementation is hard to explain, it's a bad idea.
 - If the implementation is easy to explain, it may be a good idea.
 - Namespaces are one honking great idea -- let's do more of those!
+
+##Contribution
+This repository is opened to contribute or pull request related some good problems. let's build it a large collection of programmatic and algorithmic codes on python. More to more contributions make it accessible to others and make you a better programmer. So let's do it. 
