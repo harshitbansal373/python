@@ -27,5 +27,5 @@ The Zen of Python, by Tim Peters
 - If the implementation is easy to explain, it may be a good idea.
 - Namespaces are one honking great idea -- let's do more of those!
 
-##Contribution
+## Contribution
 This repository is opened to contribute or pull request related some good problems. let's build it a large collection of programmatic and algorithmic codes on python. More to more contributions make it accessible to others and make you a better programmer. So let's do it. 
